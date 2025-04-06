@@ -1,0 +1,43 @@
+{
+  "tradeHistory": [
+    {
+      "id": "1740849612543",
+      "tokenAddress": "DvJvu6N4Bn55WvRL46gLUgKAJoe7xKfqFiXcQ9J5P58V",
+      "symbol": "Unknown",
+      "buyPrice": null,
+      "buyAmount": 8.490351,
+      "buyTimestamp": 1740849612543,
+      "targetPrice": null,
+      "buyTxId": "4ajAmeugvVHLKAUUw4kpBamxqiuDFa4cBYWyRtqWmXV189VT8WfCjZjHHUMcuCHUwVhDSHdsvBX83zSSFxZE8zBT",
+      "sellPrice": 0,
+      "sellTimestamp": 1740849626928,
+      "profit": null,
+      "sellTxId": "QTDk5DT9XL2UsPrLRRwq7Lkq2qZQBA2fSMp9BLfi539cAVvpHHPcbdQeRF2JqnPF7D8GEiTUXxCG6gqYysqSxp1"
+    },
+    {
+      "id": "1742738210263",
+      "tokenAddress": "3okFCVCSaFAkP6sEhiudvnWRRYpDZQJhWJeKRR2HMf7c",
+      "symbol": "Unknown",
+      "buyPrice": null,
+      "buyAmount": 76507136.248578,
+      "buyTimestamp": 1742738210263,
+      "buyTxId": "2TLAv7Q8HNAYqh8WfSBfMhM8FjeLiSxvENJUuLXsugUqAdJtxqcKkHnSt2Y23x5b4Lb2ePFTJpvxXPzvQwvRMW6N",
+      "sellPrice": null,
+      "sellTimestamp": 1742738216228,
+      "profit": null,
+      "sellTxId": "3Whgtd2XEZsEa3rJdBzt6ybtPBBGybwfcgnNte8fdUAgnu37HfZk2j8Yf2e4xgxGTofDaB3meswkrDu3hdBcpeEa"
+    }
+  ],
+  "activeTrades": [
+    {
+      "id": "1740851835569",
+      "tokenAddress": "6AM3mtgZxRpRQdy6HjgUw3Kir5ZYfRrUidjnc7xiCSjX",
+      "symbol": "Unknown",
+      "buyPrice": null,
+      "buyAmount": 9.930968,
+      "buyTimestamp": 1740851835569,
+      "targetPrice": null,
+      "buyTxId": "4xxsTQfCRtcfYJhQbcHhU5cpYcwFXmbrkg7HSGBMSjoCjooTyoaMdjiigt7fZyPFC6LNDEoqjeGBnCUbRrQXbeEH"
+    }
+  ]
+}
